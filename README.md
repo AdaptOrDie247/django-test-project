@@ -1,2 +1,2 @@
 # django-test-project
-A test project for learning Python and Django
+A test project for learning Python and Django.
